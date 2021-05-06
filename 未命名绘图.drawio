@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T06:19:06.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Cr5idhpkLyFgJFqsDI-h" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T16:37:00.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="XnOE8Vy1TJeG6zB1O-K-" version="14.6.10" type="github" pages="2">
   <diagram id="V1oaGlMTSQQ7UraVtOu0" name="第 1 页">
-    <mxGraphModel dx="3170" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2876" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,6 +129,14 @@
         <mxCell id="x8S9NzMH1xu4llDqmko2-55" value="&lt;font style=&quot;font-size: 35px&quot;&gt;$$h_{2}(e) = h_{1}(e) \oplus hash(e&#39;s\ fingerprint)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-40" y="580" width="810" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 1 页 的副本" id="7mlBD-bHxinkEdR7ouqE">
+    <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="ixnJGF-VWS_1nKsYmfAi-0" />
+        <mxCell id="ixnJGF-VWS_1nKsYmfAi-1" parent="ixnJGF-VWS_1nKsYmfAi-0" />
       </root>
     </mxGraphModel>
   </diagram>
