@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T05:41:57.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="H25Y9Bg0D4OYvUCu67U7" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T05:42:16.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oR3XceUTLMMCS-YjnUja" version="16.1.0" type="github">
   <diagram id="gTLTwO8mV-cnPpwadp5Z" name="Page-1">
     <mxGraphModel dx="2222" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uL3MzQZhe5QaKzYpOH3t-66" value="看病" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="-80" width="160" height="80" as="geometry" />
+          <mxGeometry x="-240" y="-79" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uL3MzQZhe5QaKzYpOH3t-67" value="病历表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=18;" vertex="1" parent="1">
           <mxGeometry y="-360" width="160" height="416" as="geometry" />
