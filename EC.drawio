@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T10:36:40.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="fVP2LehT09HWry7Pri8R" version="20.4.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-10-11T10:41:26.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="tXzG8wanf19O3gRN1iJX" version="20.4.0" type="github" pages="8">
   <diagram id="V1oaGlMTSQQ7UraVtOu0" name="CC结构">
     <mxGraphModel dx="2978" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CC结构 的副本" id="qVLsToTdELQuIWuG2I7A">
-    <mxGraphModel dx="3340" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3340" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="nYhbVRcLbwEATuvwQlC2-0" />
         <mxCell id="nYhbVRcLbwEATuvwQlC2-1" parent="nYhbVRcLbwEATuvwQlC2-0" />
@@ -322,7 +322,7 @@
         <mxCell id="vPMeOgXWu_AsRnCOh_g4-0" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Helvetica;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;shadow=0;sketch=0;glass=0;opacity=40;" parent="nYhbVRcLbwEATuvwQlC2-1" vertex="1">
           <mxGeometry x="-678.5" y="860" width="1278.5" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="nYhbVRcLbwEATuvwQlC2-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;A typical bucket&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;strokeWidth=3;fontStyle=2;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="nYhbVRcLbwEATuvwQlC2-1" vertex="1">
+        <mxCell id="nYhbVRcLbwEATuvwQlC2-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;A typical bucket&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;strokeWidth=3;fontStyle=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="nYhbVRcLbwEATuvwQlC2-1" vertex="1">
           <mxGeometry x="160" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nYhbVRcLbwEATuvwQlC2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontFamily=Helvetica;strokeWidth=3;fillColor=#d5e8d4;opacity=60;strokeColor=#82b366;" parent="nYhbVRcLbwEATuvwQlC2-1" vertex="1">
