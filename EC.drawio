@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T13:52:13.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xhuLYvHiYsMKsRnmvR8S" version="21.3.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-27T13:52:54.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7VZC-JSZ2kncQC8MedFq" version="21.3.4" type="github" pages="11">
   <diagram id="V1oaGlMTSQQ7UraVtOu0" name="CC结构">
     <mxGraphModel dx="2421" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -658,7 +658,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BM结构-修改" id="TaYRIxG4FfnDJfvhpQHK">
-    <mxGraphModel dx="2572" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2198" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="gXz0-aZWQoWdgVWvL1Ks-0" />
         <mxCell id="gXz0-aZWQoWdgVWvL1Ks-1" parent="gXz0-aZWQoWdgVWvL1Ks-0" />
@@ -1068,8 +1068,8 @@
             <mxPoint x="410" y="1180" as="sourcePoint" />
             <mxPoint x="550" y="1080" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="1220" />
-              <mxPoint x="480" y="1260" />
+              <mxPoint x="520" y="1220" />
+              <mxPoint x="520" y="1260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1078,8 +1078,8 @@
             <mxPoint x="485" y="1300" as="sourcePoint" />
             <mxPoint x="420" y="1320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="1220" />
-              <mxPoint x="480" y="1300" />
+              <mxPoint x="520" y="1220" />
+              <mxPoint x="520" y="1300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1088,8 +1088,8 @@
             <mxPoint x="445" y="1290" as="sourcePoint" />
             <mxPoint x="380" y="1350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="1220" />
-              <mxPoint x="480" y="1340" />
+              <mxPoint x="520" y="1220" />
+              <mxPoint x="520" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
