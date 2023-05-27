@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T15:20:26.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iNeaAjYLguPonefpv2q4" version="21.3.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-27T15:20:50.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-LCBaPYiXaA-e_TJlbql" version="21.3.4" type="github" pages="11">
   <diagram id="V1oaGlMTSQQ7UraVtOu0" name="CC结构">
     <mxGraphModel dx="2634" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -658,7 +658,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BM结构-修改" id="TaYRIxG4FfnDJfvhpQHK">
-    <mxGraphModel dx="3006" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1824" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="gXz0-aZWQoWdgVWvL1Ks-0" />
         <mxCell id="gXz0-aZWQoWdgVWvL1Ks-1" parent="gXz0-aZWQoWdgVWvL1Ks-0" />
@@ -993,7 +993,7 @@
             <mxPoint x="340" y="1040" as="sourcePoint" />
             <mxPoint x="590" y="1070" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="1020" />
+              <mxPoint x="460" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
