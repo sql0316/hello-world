@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T10:08:50.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6THwRZnjvWsLWpCJ8avC" version="21.3.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-25T12:32:33.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RrK4aOMq2A1KicLN81Ev" version="21.6.2" type="github" pages="11">
   <diagram id="V1oaGlMTSQQ7UraVtOu0" name="CC结构">
-    <mxGraphModel dx="2990" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3249" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CC结构 的副本" id="qVLsToTdELQuIWuG2I7A">
-    <mxGraphModel dx="2590" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2234" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="nYhbVRcLbwEATuvwQlC2-0" />
         <mxCell id="nYhbVRcLbwEATuvwQlC2-1" parent="nYhbVRcLbwEATuvwQlC2-0" />
@@ -658,17 +658,17 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BM结构-修改" id="TaYRIxG4FfnDJfvhpQHK">
-    <mxGraphModel dx="3554" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2593" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="gXz0-aZWQoWdgVWvL1Ks-0" />
         <mxCell id="gXz0-aZWQoWdgVWvL1Ks-1" parent="gXz0-aZWQoWdgVWvL1Ks-0" />
-        <mxCell id="ndCJIZPJ8W0PNoixkFDo-38" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Flag&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=5;fillColor=none;strokeColor=#6c8ebf;fontStyle=0;fillStyle=hatch;fontSize=30;shadow=1;perimeterSpacing=0;opacity=80;" parent="gXz0-aZWQoWdgVWvL1Ks-1" vertex="1">
+        <mxCell id="ndCJIZPJ8W0PNoixkFDo-38" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Flag&#39;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=5;fillColor=none;strokeColor=#6c8ebf;fontStyle=0;fillStyle=hatch;fontSize=30;shadow=1;perimeterSpacing=0;opacity=80;" parent="gXz0-aZWQoWdgVWvL1Ks-1" vertex="1">
           <mxGeometry x="80" y="840" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ndCJIZPJ8W0PNoixkFDo-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=3;fillColor=#FF6666;strokeColor=none;gradientDirection=south;fillStyle=auto;fontSize=30;opacity=50;" parent="gXz0-aZWQoWdgVWvL1Ks-1" vertex="1">
           <mxGeometry x="320" y="1320" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ndCJIZPJ8W0PNoixkFDo-39" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Flag&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=5;fillColor=none;strokeColor=#6c8ebf;fontStyle=0;fillStyle=hatch;fontSize=30;shadow=1;perimeterSpacing=0;opacity=80;" parent="gXz0-aZWQoWdgVWvL1Ks-1" vertex="1">
+        <mxCell id="ndCJIZPJ8W0PNoixkFDo-39" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Flag&#39;&#39;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=5;fillColor=none;strokeColor=#6c8ebf;fontStyle=0;fillStyle=hatch;fontSize=30;shadow=1;perimeterSpacing=0;opacity=80;" parent="gXz0-aZWQoWdgVWvL1Ks-1" vertex="1">
           <mxGeometry x="80" y="1160" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="l0uS2WU9Pj7r6ft4k7E7-0" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Flag&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeWidth=5;fillColor=none;strokeColor=#6c8ebf;fontStyle=0;fillStyle=hatch;fontSize=30;shadow=1;perimeterSpacing=0;opacity=80;" parent="gXz0-aZWQoWdgVWvL1Ks-1" vertex="1">
