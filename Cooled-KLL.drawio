@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T17:46:03.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="zwifr_xGMlVmX1xvADzb" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-28T17:46:35.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="epGYKzASNL046-6rLuAz" version="24.7.1" type="github" pages="4">
   <diagram name="KLL-structure" id="RIdGHcOCZjLfOZpH6eP5">
     <mxGraphModel dx="1352" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -404,7 +404,7 @@
         <mxCell id="uKJzq1nHtcv9LDhk2Iek-3" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uKJzq1nHtcv9LDhk2Iek-4" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
+        <mxCell id="uKJzq1nHtcv9LDhk2Iek-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`B[h(x_4)]`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uKJzq1nHtcv9LDhk2Iek-5" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
@@ -413,7 +413,7 @@
         <mxCell id="uKJzq1nHtcv9LDhk2Iek-6" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uKJzq1nHtcv9LDhk2Iek-7" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
+        <mxCell id="uKJzq1nHtcv9LDhk2Iek-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`B[h(x_9)]`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uKJzq1nHtcv9LDhk2Iek-8" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
@@ -422,7 +422,7 @@
         <mxCell id="uKJzq1nHtcv9LDhk2Iek-9" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="760" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uKJzq1nHtcv9LDhk2Iek-10" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
+        <mxCell id="uKJzq1nHtcv9LDhk2Iek-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`B[h(x_10)]`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#FFDDD9;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="880" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uND5UW30Ho6crJ_DfaL7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;shadow=0;strokeWidth=1;dashed=1;perimeterSpacing=0;arcSize=2;fontColor=#333333;" vertex="1" parent="1">
