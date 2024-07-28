@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T17:45:29.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="IhXC-Mvahli6eBVDjw6c" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-28T17:46:03.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="zwifr_xGMlVmX1xvADzb" version="24.7.1" type="github" pages="4">
   <diagram name="KLL-structure" id="RIdGHcOCZjLfOZpH6eP5">
     <mxGraphModel dx="1352" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -389,7 +389,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8s1hTEod1s_fxXzFZ9uC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdf4ee;strokeColor=#843C0C;shadow=0;strokeWidth=3;dashed=1;perimeterSpacing=0;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="8s1hTEod1s_fxXzFZ9uC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF6F0;strokeColor=#843C0C;shadow=0;strokeWidth=3;dashed=1;perimeterSpacing=0;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-110" width="1460" height="490" as="geometry" />
         </mxCell>
         <mxCell id="8s1hTEod1s_fxXzFZ9uC-2" value="&lt;font size=&quot;1&quot; color=&quot;#843c0c&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Hot Filter&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
