@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T06:55:10.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="KKN7JUw8FCMxJKYrERJ2" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-28T06:55:20.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="tKHIYapZ2PmIGXlQXwUt" version="24.7.1" type="github" pages="2">
   <diagram name="KLL-structure" id="RIdGHcOCZjLfOZpH6eP5">
     <mxGraphModel dx="1352" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -61,6 +61,14 @@
         <mxCell id="oDtsW4RmFpOyFjkodEfx-24" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Compactors&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-120" y="25" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RUEiOXi2WiEYHmCdhpVl" name="KLL-running">
+    <mxGraphModel dx="809" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
