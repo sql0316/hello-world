@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-29T03:55:53.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="Geag_6DAon5QKRWFT6u5" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-29T04:44:14.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="sIGksGHyGcii_s6whrpc" version="24.7.1" type="github" pages="4">
   <diagram name="KLL-structure" id="RIdGHcOCZjLfOZpH6eP5">
     <mxGraphModel dx="1352" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H82kkvnJ1LWDCAzbscPk" name="Cooled-KLL-running">
-    <mxGraphModel dx="1268" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1833" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -741,17 +741,14 @@
             <mxPoint x="710" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xFo4Yp1APOiYZbcEu--E-1" value="&lt;font color=&quot;#398fe0&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Cold Item `x_9`&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="585" y="280" width="110" height="30" as="geometry" />
+        <mxCell id="xFo4Yp1APOiYZbcEu--E-1" value="&lt;font color=&quot;#398fe0&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Cold Item&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="575" y="280" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFo4Yp1APOiYZbcEu--E-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=4.048484848484849;curved=1;width=10.90909090909091;strokeWidth=1;fillColor=#dae8fc;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070.3" y="270" as="sourcePoint" />
             <mxPoint x="1069.71" y="320" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xFo4Yp1APOiYZbcEu--E-3" value="&lt;font color=&quot;#398fe0&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Cold Item `x_7`&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="944.71" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="La7LujD2H3kMxu8vudgS-1" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Case 1&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-300" y="320" width="90" height="30" as="geometry" />
@@ -767,6 +764,15 @@
         </mxCell>
         <mxCell id="La7LujD2H3kMxu8vudgS-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8s1hTEod1s_fxXzFZ9uC-2" target="8s1hTEod1s_fxXzFZ9uC-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DohzmZBUzjUvsWPI_day-1" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;`x_9`&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#DAE8FC;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="655" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DohzmZBUzjUvsWPI_day-2" value="&lt;font color=&quot;#398fe0&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Cold Item&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="935" y="280" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DohzmZBUzjUvsWPI_day-3" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;`x_7`&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#DAE8FC;strokeColor=#000000;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="280" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
