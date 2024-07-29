@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-29T06:42:12.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="3c7cUh-nrdXZ7A_vBQBT" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-29T07:42:57.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="D-ugfu_ckRjLQbQj6Hdh" version="24.7.1" type="github" pages="5">
   <diagram name="KLL-structure" id="RIdGHcOCZjLfOZpH6eP5">
     <mxGraphModel dx="1352" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H82kkvnJ1LWDCAzbscPk" name="Cooled-KLL-running">
-    <mxGraphModel dx="1388" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2086" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -777,6 +777,14 @@
         <mxCell id="DohzmZBUzjUvsWPI_day-4" value="&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;`(\lambda=4)`&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-305" y="-10" width="70" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kIK1KS54Mvzix5aCC_dC" name="Cooled-KLL-multi-insert">
+    <mxGraphModel dx="1433" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
