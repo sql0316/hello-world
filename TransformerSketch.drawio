@@ -629,7 +629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wBv1koPCvWFemJUGwMq-" name="第 6 页">
-    <mxGraphModel dx="1242" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -746,6 +746,12 @@
               <mxPoint x="400" y="175" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="myP-uoIytYQ2fzWoitW9-4" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Counters&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;strokeWidth=2;fontSize=22;strokeColor=none;fillStyle=zigzag-line;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myP-uoIytYQ2fzWoitW9-5" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Bitmap&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Helvetica;strokeWidth=2;fontSize=22;strokeColor=none;fillStyle=zigzag-line;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="245" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
