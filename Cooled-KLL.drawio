@@ -1241,7 +1241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Cooled-KLL-running 的副本" id="VP2pSX5tANdftqE0atGj">
-    <mxGraphModel dx="2309" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1505" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="KKULhSebM4qgfI0KB3MP-0" />
         <mxCell id="KKULhSebM4qgfI0KB3MP-1" parent="KKULhSebM4qgfI0KB3MP-0" />
@@ -1923,10 +1923,10 @@
         <mxCell id="N32KipesSVujguojpL5i-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`x_7`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;shadow=0;strokeWidth=2;dashed=1;" vertex="1" parent="KKULhSebM4qgfI0KB3MP-1">
           <mxGeometry x="800" y="760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N32KipesSVujguojpL5i-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`x_9`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;shadow=0;strokeWidth=2;" vertex="1" parent="KKULhSebM4qgfI0KB3MP-1">
+        <mxCell id="N32KipesSVujguojpL5i-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`x_9`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;shadow=0;strokeWidth=2;" vertex="1" parent="KKULhSebM4qgfI0KB3MP-1">
           <mxGeometry x="900" y="700" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N32KipesSVujguojpL5i-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`x_7`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;shadow=0;strokeWidth=2;" vertex="1" parent="KKULhSebM4qgfI0KB3MP-1">
+        <mxCell id="N32KipesSVujguojpL5i-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`x_7`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;shadow=0;strokeWidth=2;" vertex="1" parent="KKULhSebM4qgfI0KB3MP-1">
           <mxGeometry x="940" y="700" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N32KipesSVujguojpL5i-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`x_3`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;shadow=0;strokeWidth=2;" vertex="1" parent="KKULhSebM4qgfI0KB3MP-1">
