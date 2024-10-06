@@ -687,7 +687,7 @@
         <mxCell id="1UfWzNvj_2DkfDIJDXHT-62" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`81`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="wYFfiPVNEmxSaql0Wqml-1">
           <mxGeometry x="800" y="520" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1UfWzNvj_2DkfDIJDXHT-63" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;`N=17`&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="wYFfiPVNEmxSaql0Wqml-1">
+        <mxCell id="1UfWzNvj_2DkfDIJDXHT-63" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;`N=16`&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="wYFfiPVNEmxSaql0Wqml-1">
           <mxGeometry x="120" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1UfWzNvj_2DkfDIJDXHT-64" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;`Rank`&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="wYFfiPVNEmxSaql0Wqml-1">
