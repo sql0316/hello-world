@@ -745,7 +745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4EcD7Y_hvG9u861MaCfG" name="Cooled-KLL-structure">
-    <mxGraphModel dx="1595" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1834" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -866,6 +866,9 @@
             <mxPoint x="-120" y="270" as="sourcePoint" />
             <mxPoint x="180" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XBOFgxRH3V1Y8B72IvMB-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Store remaining cold items&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
