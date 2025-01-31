@@ -756,10 +756,10 @@
           <mxGeometry x="-230" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4lz-ZrDbgPISzJuj7c6j-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f7fb;strokeColor=#2e74b6;shadow=0;strokeWidth=2;dashed=1;perimeterSpacing=0;glass=0;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="180" y="50" width="260" height="280" as="geometry" />
+          <mxGeometry x="180" y="40" width="260" height="290" as="geometry" />
         </mxCell>
         <mxCell id="4lz-ZrDbgPISzJuj7c6j-2" value="&lt;font size=&quot;1&quot; color=&quot;#2e74b6&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;KLL Sketch&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="190" y="60" width="140" height="30" as="geometry" />
+          <mxGeometry x="190" y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e2V1Y5j9smsqvBlrCck7-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;`B[1]`&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#fad9d5;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-220" y="100" width="100" height="30" as="geometry" />
